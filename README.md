@@ -11,6 +11,9 @@ The server supports detailed analysis of websites, including:
 
 This tool demonstrates how natural language interfaces can be integrated with web analysis services using the MCP protocol. In a way, **what we are doing is providing context to LLMs, enabling them to query or perform operations that would not be possible by default in any chatbot or AI agent.**
 
+> ⚠️ **Note:** The current structure can definitely be improved — this was put together quickly to test integration with Claude Desktop.  
+> Next steps include adding more tools and reorganizing the project to separate concerns properly (following a hexagonal architecture approach).
+
 ## Features
 
 - Integration with the Model Context Protocol (MCP).
